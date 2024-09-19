@@ -95,5 +95,6 @@ This experiment guides you through the process of wrangling data and visualizing
 ### Author:
 Yule Andre R. Osea
 
-### Date per commit changes
-Add the date of creation.
+### Date per commits
+
+19/9/2024
